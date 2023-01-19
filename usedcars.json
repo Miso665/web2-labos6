@@ -1,0 +1,55 @@
+[{
+        "id": 1,
+        "make": "Volkswagen",
+        "model": "Golf",
+        "year": 2013,
+        "mileage": 200000,
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/VW_Golf_1.6_TDI_Style_%28VI%29_%E2%80%93_Frontansicht%2C_25._Februar_2012%2C_Ratingen.jpg/1200px-VW_Golf_1.6_TDI_Style_%28VI%29_%E2%80%93_Frontansicht%2C_25._Februar_2012%2C_Ratingen.jpg",
+        "price": 5000
+    },
+    {
+        "id": 2,
+        "make": "Ford",
+        "model": "Focus",
+        "year": 2003,
+        "mileage": 234000,
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/e/e6/2003_Ford_Focus_Zetec_1.6_Front.jpg",
+        "price": 1500
+    },
+    {
+        "id": 3,
+        "make": "Skoda",
+        "model": "Octavia",
+        "year": 2005,
+        "mileage": 300000,
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Skoda_Octavia_Beijing_China_%E4%BA%AC.jpg/1280px-Skoda_Octavia_Beijing_China_%E4%BA%AC.jpg",
+        "price": 2000
+    },
+    {
+        "id": 4,
+        "make": "Bugatti",
+        "model": "Veyron SS",
+        "year": 2008,
+        "mileage": 50000,
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/5/53/Veyron_SS.jpg",
+        "price": 2000000
+    },
+    {
+        "id": 5,
+        "make": "Audi",
+        "model": "A4",
+        "year": 2004,
+        "mileage": 150000,
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Audi_A4_B6_%282000%E2%80%932004%29_front_MJ.JPG",
+        "price": 4000
+    },
+    {
+        "id": 6,
+        "make": "Honda",
+        "model": "Civic",
+        "year": 2017,
+        "mileage": 58000,
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2017_Honda_Civic_SR_VTEC_1.0_Front.jpg/1920px-2017_Honda_Civic_SR_VTEC_1.0_Front.jpg",
+        "price": 12000
+    }
+]
