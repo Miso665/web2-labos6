@@ -1,13 +1,14 @@
 {
-  "name": "recipes-server",
+  "name": "used-cars-server",
   "version": "1.0.0",
-  "description": "Dummy recipes server, returning list of recipes, CORS enabled and all...",
-  "main": "index.js",
+  "description": "Browse used cars",
+  "main": "server.js",
   "scripts": {
+    "server": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "igor.mekterovic@fer.hr",
+  "author": "mihael.cugovcan@fer.hr",
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
